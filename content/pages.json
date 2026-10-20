@@ -32,5 +32,21 @@
     "updatedAt": "2026-10-20T03:27:07.339Z",
     "updatedBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-3",
+    "path": "/base44-home-page",
+    "type": "page",
+    "title": "Base44 Home Page",
+    "seoTitle": "Base44 Home Page",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-20T03:43:05.272Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-20T03:43:05.272Z",
+    "updatedBy": "joshua"
   }
 ]
