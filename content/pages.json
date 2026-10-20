@@ -69,18 +69,18 @@
   },
   {
     "id": "pg-5",
-    "path": "/base44-pricing-page",
+    "path": "/pricing",
     "type": "page",
-    "title": "Base44 Pricing Page",
-    "seoTitle": "Base44 Pricing Page",
-    "seoDescription": "",
+    "title": "Pricing",
+    "seoTitle": "Hyundai & Kia Engine Prices | Reconditioned Engine Costs",
+    "seoDescription": "Hyundai, Kia & iLoad engine prices. Reconditioned engines from $3,000, supplied and fitted from $4,000. All prices include GST. We beat any written quote by 5%.",
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
     "status": "published",
     "createdAt": "2026-10-20T03:56:10.203Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-20T03:56:30.772Z",
+    "updatedAt": "2026-10-20T03:57:45.202Z",
     "updatedBy": "joshua"
   }
 ]
