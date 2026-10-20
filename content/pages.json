@@ -1,39 +1,5 @@
 [
   {
-    "id": "pg-1",
-    "path": "/hyundai-kia-engine-specialists-reconditioned-engines-fitted",
-    "type": "page",
-    "title": "Hyundai & Kia Engine Specialists | Reconditioned Engines Fitted",
-    "seoTitle": "Hyundai & Kia Engine Specialists | Reconditioned Engines Fitted",
-    "seoDescription": "Reconditioned Hyundai, Kia & iLoad engines supplied Australia-wide & fitted in Hallam, VIC. 300+ iLoad engines, price-beat guarantee. Call (03) 8900 6005.",
-    "layout": "mockup",
-    "headerPartId": null,
-    "footerPartId": "footer-1",
-    "status": "deleted",
-    "createdAt": "2026-10-20T03:01:58.880Z",
-    "createdBy": "joshua",
-    "updatedAt": "2026-10-20T03:28:01.017Z",
-    "updatedBy": "joshua",
-    "isHome": false
-  },
-  {
-    "id": "pg-2",
-    "path": "/base44-home-page-2",
-    "type": "page",
-    "title": "Base44 Home Page",
-    "seoTitle": "Base44 Home Page",
-    "seoDescription": "",
-    "layout": "mockup",
-    "headerPartId": "header-1",
-    "footerPartId": "footer-2",
-    "status": "deleted",
-    "createdAt": "2026-10-20T03:26:05.819Z",
-    "createdBy": "joshua",
-    "updatedAt": "2026-10-20T03:43:46.239Z",
-    "updatedBy": "joshua",
-    "isHome": false
-  },
-  {
     "id": "pg-3",
     "path": "/",
     "type": "page",
@@ -51,23 +17,6 @@
     "isHome": true
   },
   {
-    "id": "pg-4",
-    "path": "/pricing",
-    "type": "page",
-    "title": "Base44 Pricing Page",
-    "seoTitle": "Base44 Pricing Page",
-    "seoDescription": "",
-    "layout": "mockup",
-    "headerPartId": "header-2",
-    "footerPartId": "footer-3",
-    "status": "deleted",
-    "createdAt": "2026-10-20T03:44:22.855Z",
-    "createdBy": "joshua",
-    "updatedAt": "2026-10-20T03:56:44.650Z",
-    "updatedBy": "joshua",
-    "isHome": false
-  },
-  {
     "id": "pg-5",
     "path": "/pricing",
     "type": "page",
@@ -82,24 +31,6 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-20T03:57:45.202Z",
     "updatedBy": "joshua"
-  },
-  {
-    "id": "pg-6",
-    "path": "/thank-you",
-    "type": "page",
-    "title": "Thank You | Korean Engine Specialist",
-    "seoTitle": "Thank You | Korean Engine Specialist",
-    "seoDescription": "Thanks for your engine enquiry. A Hyundai, Kia and iLoad engine specialist will be in touch shortly.",
-    "layout": "mockup",
-    "headerPartId": "header-2",
-    "footerPartId": "footer-3",
-    "status": "deleted",
-    "createdAt": "2026-10-20T04:33:33.575Z",
-    "createdBy": "joshua",
-    "updatedAt": "2026-10-20T04:49:37.784Z",
-    "updatedBy": "joshua",
-    "noindex": true,
-    "isHome": false
   },
   {
     "id": "pg-7",
