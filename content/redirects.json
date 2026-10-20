@@ -1,0 +1,26 @@
+[
+  {
+    "from": "/thank-you",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T04:51:09.972Z"
+  },
+  {
+    "from": "/pricing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T04:51:09.972Z"
+  },
+  {
+    "from": "/base44-home-page-2",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T04:51:09.972Z"
+  },
+  {
+    "from": "/hyundai-kia-engine-specialists-reconditioned-engines-fitted",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-20T04:51:09.972Z"
+  }
+]
