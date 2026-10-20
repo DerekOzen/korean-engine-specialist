@@ -65,5 +65,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-20T03:45:01.075Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-5",
+    "path": "/base44-pricing-page",
+    "type": "page",
+    "title": "Base44 Pricing Page",
+    "seoTitle": "Base44 Pricing Page",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-20T03:56:10.203Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-20T03:56:10.203Z",
+    "updatedBy": "joshua"
   }
 ]
