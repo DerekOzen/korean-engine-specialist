@@ -123,7 +123,7 @@
     "path": "/thank-you",
     "type": "page",
     "title": "Thank You | Korean Engine Specialist",
-    "seoTitle": "Base44 Thank You 1",
+    "seoTitle": "Thank You",
     "seoDescription": "",
     "layout": "mockup",
     "headerPartId": "header-3",
@@ -131,7 +131,7 @@
     "status": "published",
     "createdAt": "2026-10-20T05:27:12.391Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-20T05:30:33.156Z",
+    "updatedAt": "2026-10-20T05:49:00.075Z",
     "updatedBy": "joshua",
     "noindex": true
   }
