@@ -67,7 +67,7 @@
   },
   {
     "id": "pg-6",
-    "path": "/terms-conditions",
+    "path": "/terms-and-conditions",
     "type": "page",
     "title": "Terms & Conditions",
     "seoTitle": "Terms & Conditions | Korean Engine Specialist",
@@ -78,7 +78,7 @@
     "status": "published",
     "createdAt": "2026-10-20T05:09:36.262Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-20T05:11:24.154Z",
+    "updatedAt": "2026-10-20T05:23:10.694Z",
     "updatedBy": "joshua"
   }
 ]
