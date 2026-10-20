@@ -80,5 +80,37 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-20T05:23:10.694Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-8",
+    "path": "/base44-home-page-1",
+    "type": "page",
+    "title": "Base44 Home Page 1",
+    "seoTitle": "Base44 Home Page 1",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-10-20T05:26:53.496Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-20T05:26:53.496Z",
+    "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-9",
+    "path": "/base44-pricing-page-1",
+    "type": "page",
+    "title": "Base44 Pricing Page 1",
+    "seoTitle": "Base44 Pricing Page 1",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-10-20T05:26:53.496Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-20T05:26:53.496Z",
+    "updatedBy": "joshua"
   }
 ]
