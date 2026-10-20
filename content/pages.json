@@ -103,18 +103,19 @@
   },
   {
     "id": "pg-7",
-    "path": "/base44-thank-you",
+    "path": "/thank-you",
     "type": "page",
-    "title": "Base44 Thank You",
-    "seoTitle": "Base44 Thank You",
+    "title": "Thank You | Korean Engine Specialist",
+    "seoTitle": "Thank You",
     "seoDescription": "",
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-20T04:49:15.841Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-20T04:49:15.841Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-20T04:50:15.905Z",
+    "updatedBy": "joshua",
+    "noindex": true
   }
 ]
