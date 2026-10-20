@@ -112,5 +112,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-20T05:26:53.496Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-10",
+    "path": "/base44-thank-you-1",
+    "type": "page",
+    "title": "Base44 Thank You 1",
+    "seoTitle": "Base44 Thank You 1",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-10-20T05:27:12.391Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-20T05:27:12.391Z",
+    "updatedBy": "joshua"
   }
 ]
