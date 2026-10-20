@@ -69,16 +69,16 @@
     "id": "pg-6",
     "path": "/terms-conditions",
     "type": "page",
-    "title": "Base44 Terms Conditions",
-    "seoTitle": "Base44 Terms Conditions",
-    "seoDescription": "",
+    "title": "Terms & Conditions",
+    "seoTitle": "Terms & Conditions | Korean Engine Specialist",
+    "seoDescription": "Terms and conditions for Hyundai and Kia engine supply and fitting, covering quotes, deposits, delivery, warranty and your rights under Australian Consumer Law.",
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-20T05:09:36.262Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-20T05:09:36.262Z",
+    "updatedAt": "2026-10-20T05:10:52.631Z",
     "updatedBy": "joshua"
   }
 ]
