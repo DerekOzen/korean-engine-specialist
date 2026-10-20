@@ -48,5 +48,37 @@
     "updatedAt": "2026-10-20T04:50:15.905Z",
     "updatedBy": "joshua",
     "noindex": true
+  },
+  {
+    "id": "pg-4",
+    "path": "/privacy-policy",
+    "type": "page",
+    "title": "Base44 Privacy Policy",
+    "seoTitle": "Base44 Privacy Policy",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-10-20T05:09:36.262Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-20T05:09:36.262Z",
+    "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-6",
+    "path": "/terms-conditions",
+    "type": "page",
+    "title": "Base44 Terms Conditions",
+    "seoTitle": "Base44 Terms Conditions",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-10-20T05:09:36.262Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-20T05:09:36.262Z",
+    "updatedBy": "joshua"
   }
 ]
