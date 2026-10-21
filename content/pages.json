@@ -53,16 +53,16 @@
     "id": "pg-4",
     "path": "/base44-home-page-2",
     "type": "page",
-    "title": "Base44 Home Page 2",
-    "seoTitle": "Base44 Home Page 2",
-    "seoDescription": "",
+    "title": "Home",
+    "seoTitle": "Hyundai & Kia Engine Specialists | Reconditioned Engines",
+    "seoDescription": "Reconditioned Hyundai, Kia & iLoad engines supplied Australia-wide and fitted in Hallam VIC. 300+ iLoad engines fitted. We beat any written quote by 5%.",
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-21T02:52:54.363Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-21T02:54:00.235Z",
+    "updatedAt": "2026-10-21T02:54:46.676Z",
     "updatedBy": "joshua"
   }
 ]
