@@ -84,5 +84,21 @@
     "updatedAt": "2026-10-22T06:22:02.388Z",
     "updatedBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-7",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You | Korean Engine Specialist",
+    "seoTitle": "Thank You | Korean Engine Specialist",
+    "seoDescription": "Thanks for your engine enquiry. A Hyundai, Kia and iLoad engine specialist will be in touch shortly with your best price.",
+    "layout": "mockup",
+    "headerPartId": "header-5",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-22T06:25:55.789Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-22T06:25:55.789Z",
+    "updatedBy": "joshua"
   }
 ]
