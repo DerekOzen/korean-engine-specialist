@@ -33,7 +33,8 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800;900&family=Inter:wght@400;500;600;700&display=swap"
     ],
-    "updatedAt": "2026-10-20T05:08:52.623Z"
+    "updatedAt": "2026-10-22T06:16:47.498Z",
+    "deleted": true
   },
   {
     "id": "header-2",
