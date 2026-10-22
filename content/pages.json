@@ -98,7 +98,8 @@
     "status": "published",
     "createdAt": "2026-10-22T06:25:55.789Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-22T06:26:26.722Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-22T06:28:12.951Z",
+    "updatedBy": "joshua",
+    "noindex": true
   }
 ]
