@@ -48,22 +48,5 @@
     "updatedAt": "2026-10-21T02:55:06.903Z",
     "updatedBy": "joshua",
     "isHome": true
-  },
-  {
-    "id": "pg-5",
-    "path": "/about",
-    "type": "page",
-    "title": "About Korean Engine Specialist | Hallam, Victoria",
-    "seoTitle": "About Korean Engine Specialist | Hallam, Victoria",
-    "seoDescription": "Korean Engine Specialist supplies reconditioned Hyundai and Kia engines from our Hallam, Victoria workshop, with 40+ years of hands-on experience.",
-    "layout": "mockup",
-    "headerPartId": "header-4",
-    "footerPartId": "footer-4",
-    "status": "deleted",
-    "createdAt": "2026-10-22T06:06:42.832Z",
-    "createdBy": "joshua",
-    "updatedAt": "2026-10-22T06:15:17.475Z",
-    "updatedBy": "joshua",
-    "isHome": false
   }
 ]
