@@ -1792,8 +1792,10 @@
     "status": "published",
     "createdAt": "2026-10-26T02:50:15.957Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-26T23:17:02.718Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/engine-block-on-boring-machine-machine-shop.webp",
+    "featuredImageAlt": "Engine block mounted on a boring machine during reconditioning"
   },
   {
     "id": "pg-224",
