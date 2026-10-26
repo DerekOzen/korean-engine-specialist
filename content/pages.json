@@ -154,9 +154,11 @@
     "status": "published",
     "createdAt": "2026-10-26T02:29:50.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
-    "updatedBy": "joshua",
-    "category": "Product"
+    "updatedAt": "2026-10-26T22:58:28.599Z",
+    "updatedBy": "sebastian",
+    "category": "Product",
+    "featuredImage": "/uploads/hyundai-kia-d4hb-2-2l-r-series-turbo-diesel-engine.webp",
+    "featuredImageAlt": "Hyundai and Kia D4HB 2.2 litre R-series turbo-diesel engine"
   },
   {
     "id": "pg-127",
