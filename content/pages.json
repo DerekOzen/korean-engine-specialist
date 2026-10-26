@@ -1478,8 +1478,10 @@
     "status": "published",
     "createdAt": "2026-10-26T02:47:09.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-26T23:12:01.315Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/reconditioned-engine-on-workshop-hoist-victoria.webp",
+    "featuredImageAlt": "Reconditioned engine lifted on a workshop crane before fitting"
   },
   {
     "id": "pg-206",
