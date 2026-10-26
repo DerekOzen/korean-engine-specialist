@@ -135,9 +135,11 @@
     "status": "published",
     "createdAt": "2026-10-26T02:29:50.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T05:02:06.882Z",
-    "updatedBy": "joshua",
-    "category": "Product"
+    "updatedAt": "2026-10-26T22:58:18.166Z",
+    "updatedBy": "sebastian",
+    "category": "Product",
+    "featuredImage": "/uploads/hyundai-d4cb-2-5l-crdi-reconditioned-engine.webp",
+    "featuredImageAlt": "Hyundai D4CB 2.5 litre CRDi turbo-diesel engine, the unit fitted to the iLoad and iMax"
   },
   {
     "id": "pg-126",
