@@ -1334,8 +1334,10 @@
     "status": "published",
     "createdAt": "2026-10-26T02:45:17.550Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-26T23:09:39.234Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/used-engine-block-beside-reconditioned-engine-block.webp",
+    "featuredImageAlt": "A worn engine block beside a freshly machined one, comparing a used engine with a reconditioned engine"
   },
   {
     "id": "pg-198",
