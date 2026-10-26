@@ -1686,8 +1686,10 @@
     "status": "published",
     "createdAt": "2026-10-26T02:48:36.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-26T23:15:17.760Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/diesel-engine-fuel-rail-and-injector-lines.webp",
+    "featuredImageAlt": "High pressure fuel rail and injector lines on a reconditioned turbo diesel engine"
   },
   {
     "id": "pg-218",
