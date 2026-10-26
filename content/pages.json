@@ -173,9 +173,11 @@
     "status": "published",
     "createdAt": "2026-10-26T02:29:50.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T05:02:15.145Z",
-    "updatedBy": "joshua",
-    "category": "Product"
+    "updatedAt": "2026-10-26T22:58:36.201Z",
+    "updatedBy": "sebastian",
+    "category": "Product",
+    "featuredImage": "/uploads/hyundai-kia-g4fd-1-6l-gamma-gdi-petrol-engine.webp",
+    "featuredImageAlt": "Illustration of a 1.6 litre Gamma GDI four cylinder petrol engine of the type the G4FD code covers, naturally aspirated with no turbocharger"
   },
   {
     "id": "pg-128",
