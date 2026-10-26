@@ -18,7 +18,7 @@
   },
   {
     "id": "pg-6",
-    "path": "/",
+    "path": "/hyundai-kia-engine-specialists-reconditioned-engines",
     "type": "page",
     "title": "Hyundai & Kia Engine Specialists | Reconditioned Engines",
     "seoTitle": "New & Reconditioned Hyundai & Kia Engines | Korean Engine Specialist",
@@ -29,9 +29,9 @@
     "status": "published",
     "createdAt": "2026-10-22T06:21:14.800Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-23T09:02:04.308Z",
+    "updatedAt": "2026-10-26T02:25:59.034Z",
     "updatedBy": "joshua",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-7",
@@ -1841,7 +1841,7 @@
   },
   {
     "id": "pg-118",
-    "path": "/index",
+    "path": "/",
     "type": "page",
     "title": "Hyundai & Kia Engine Specialists | New and Reconditioned",
     "seoTitle": "Hyundai & Kia Engine Specialists | New and Reconditioned",
@@ -1849,10 +1849,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-26T02:25:25.043Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T02:25:25.043Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-26T02:25:59.034Z",
+    "updatedBy": "joshua",
+    "isHome": true
   }
 ]
