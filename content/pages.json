@@ -192,9 +192,11 @@
     "status": "published",
     "createdAt": "2026-10-26T02:29:50.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T05:02:20.552Z",
-    "updatedBy": "joshua",
-    "category": "Product"
+    "updatedAt": "2026-10-26T22:58:45.092Z",
+    "updatedBy": "sebastian",
+    "category": "Product",
+    "featuredImage": "/uploads/hyundai-g4fj-1-6l-gdi-turbo-petrol-engine.webp",
+    "featuredImageAlt": "Hyundai G4FJ 1.6 litre GDI turbocharged petrol engine"
   },
   {
     "id": "pg-129",
