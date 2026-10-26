@@ -1460,8 +1460,10 @@
     "status": "published",
     "createdAt": "2026-10-26T02:47:09.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-26T23:11:43.572Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/machined-engine-block-honed-bores-adelaide.webp",
+    "featuredImageAlt": "Freshly machined engine block with honed bores, alongside a new gasket set"
   },
   {
     "id": "pg-205",
