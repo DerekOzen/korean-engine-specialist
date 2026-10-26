@@ -3740,7 +3740,7 @@
   {
     "id": "pg-229",
     "path": "/services/urgent-engine-replacement",
-    "type": "page",
+    "type": "service",
     "title": "Urgent Engine Replacement | Hyundai & Kia at Hallam",
     "seoTitle": "Urgent Engine Replacement | Hyundai & Kia at Hallam",
     "seoDescription": "24 hour urgent and emergency Hyundai and Kia engine replacement for vehicles that cannot wait.",
@@ -3750,7 +3750,7 @@
     "status": "draft",
     "createdAt": "2026-10-26T02:51:06.379Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T02:51:06.379Z",
+    "updatedAt": "2026-10-26T02:51:54.533Z",
     "updatedBy": "joshua"
   },
   {
