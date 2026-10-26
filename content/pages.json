@@ -1900,8 +1900,10 @@
     "status": "published",
     "createdAt": "2026-10-26T02:51:06.379Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-26T23:18:42.755Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/engine-workshop-open-at-night-urgent-replacement.webp",
+    "featuredImageAlt": "Engine workshop lit at night, illustrating after-hours engine work"
   },
   {
     "id": "pg-230",
