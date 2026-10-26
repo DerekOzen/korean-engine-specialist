@@ -1388,8 +1388,10 @@
     "status": "published",
     "createdAt": "2026-10-26T02:47:09.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-26T23:10:30.909Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/reconditioned-engine-wrapped-for-freight-sydney.webp",
+    "featuredImageAlt": "Reconditioned engine wrapped and padded for road freight"
   },
   {
     "id": "pg-201",
