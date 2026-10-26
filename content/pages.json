@@ -690,8 +690,10 @@
     "status": "published",
     "createdAt": "2026-10-26T02:39:25.027Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-26T23:27:09.223Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/commercial-van-fleet-iload-imax-engines.webp",
+    "featuredImageAlt": "Hyundai iMax Engines"
   },
   {
     "id": "pg-156",
