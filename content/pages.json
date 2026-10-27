@@ -116,13 +116,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:29:50.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:57:56.370Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:20:33.786Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hyundai-kia-engine-code-range-reconditioned.webp",
-    "featuredImageAlt": "A range of reconditioned engine blocks and cylinder heads of the kind supplied for Hyundai and Kia vehicles"
+    "featuredImageAlt": "A range of reconditioned engine blocks and cylinder heads of the kind supplied for Hyundai and Kia vehicles",
+    "isHome": false
   },
   {
     "id": "pg-125",
