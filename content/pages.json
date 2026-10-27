@@ -1475,13 +1475,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:45:17.550Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:09:56.427Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:22:29.161Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-engines-crated-australia-wide-despatch.webp",
-    "featuredImageAlt": "Reconditioned engines crated and stacked, ready for road freight"
+    "featuredImageAlt": "Reconditioned engines crated and stacked, ready for road freight",
+    "isHome": false
   },
   {
     "id": "pg-199",
@@ -1493,13 +1494,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:47:09.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:10:13.275Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:22:29.161Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-engine-strapped-pallet-new-south-wales.webp",
-    "featuredImageAlt": "Reconditioned engine strapped to a pallet at a loading dock, ready for road freight"
+    "featuredImageAlt": "Reconditioned engine strapped to a pallet at a loading dock, ready for road freight",
+    "isHome": false
   },
   {
     "id": "pg-200",
@@ -1511,13 +1513,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:47:09.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:10:30.909Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:22:29.161Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-engine-wrapped-for-freight-sydney.webp",
-    "featuredImageAlt": "Reconditioned engine wrapped and padded for road freight"
+    "featuredImageAlt": "Reconditioned engine wrapped and padded for road freight",
+    "isHome": false
   },
   {
     "id": "pg-201",
@@ -1529,13 +1532,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:47:09.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:10:48.893Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:22:29.161Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-engine-packed-in-crate-queensland.webp",
-    "featuredImageAlt": "Reconditioned turbo diesel engine packed in foam inside a timber freight crate"
+    "featuredImageAlt": "Reconditioned turbo diesel engine packed in foam inside a timber freight crate",
+    "isHome": false
   },
   {
     "id": "pg-202",
@@ -1547,13 +1551,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:47:09.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:11:06.077Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:22:29.161Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-turbo-diesel-engine-brisbane-supply.webp",
-    "featuredImageAlt": "Reconditioned turbo diesel engine on a stand, prepared for supply"
+    "featuredImageAlt": "Reconditioned turbo diesel engine on a stand, prepared for supply",
+    "isHome": false
   },
   {
     "id": "pg-203",
@@ -1565,13 +1570,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:47:09.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:11:25.555Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:22:29.161Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/engine-block-and-cylinder-head-south-australia-supply.webp",
-    "featuredImageAlt": "Machined engine block and cylinder head laid out side by side before assembly"
+    "featuredImageAlt": "Machined engine block and cylinder head laid out side by side before assembly",
+    "isHome": false
   },
   {
     "id": "pg-204",
@@ -1583,13 +1589,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:47:09.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:11:43.572Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:22:29.161Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/machined-engine-block-honed-bores-adelaide.webp",
-    "featuredImageAlt": "Freshly machined engine block with honed bores, alongside a new gasket set"
+    "featuredImageAlt": "Freshly machined engine block with honed bores, alongside a new gasket set",
+    "isHome": false
   },
   {
     "id": "pg-205",
@@ -1601,13 +1608,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:47:09.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:12:01.315Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:22:29.161Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-engine-on-workshop-hoist-victoria.webp",
-    "featuredImageAlt": "Reconditioned engine lifted on a workshop crane before fitting"
+    "featuredImageAlt": "Reconditioned engine lifted on a workshop crane before fitting",
+    "isHome": false
   },
   {
     "id": "pg-206",
@@ -1619,13 +1627,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:47:09.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:12:19.354Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:22:29.161Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-engine-lowered-into-van-dandenong.webp",
-    "featuredImageAlt": "Reconditioned turbo diesel engine being lowered into a commercial van"
+    "featuredImageAlt": "Reconditioned turbo diesel engine being lowered into a commercial van",
+    "isHome": false
   },
   {
     "id": "pg-207",
@@ -1637,13 +1646,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:47:09.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:12:38.119Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:22:29.161Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/engine-stands-hallam-reconditioning-workshop.webp",
-    "featuredImageAlt": "Reconditioned engines mounted on rotating engine stands in a workshop"
+    "featuredImageAlt": "Reconditioned engines mounted on rotating engine stands in a workshop",
+    "isHome": false
   },
   {
     "id": "pg-208",
@@ -1655,13 +1665,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:47:09.695Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:12:55.178Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:22:29.161Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-intake-side-melbourne.webp",
-    "featuredImageAlt": "Reconditioned four cylinder engine on a stand, viewed from the intake side"
+    "featuredImageAlt": "Reconditioned four cylinder engine on a stand, viewed from the intake side",
+    "isHome": false
   },
   {
     "id": "pg-209",
@@ -1673,13 +1684,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:48:36.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:13:14.300Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:22:29.161Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/heavy-duty-engine-crate-western-australia-freight.webp",
-    "featuredImageAlt": "Heavy duty plywood freight crate holding a reconditioned engine"
+    "featuredImageAlt": "Heavy duty plywood freight crate holding a reconditioned engine",
+    "isHome": false
   },
   {
     "id": "pg-210",
@@ -1691,13 +1703,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:48:36.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:13:31.941Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:22:29.161Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-engine-in-timber-crate-perth-delivery.webp",
-    "featuredImageAlt": "Reconditioned engine visible through the slats of a timber freight crate"
+    "featuredImageAlt": "Reconditioned engine visible through the slats of a timber freight crate",
+    "isHome": false
   },
   {
     "id": "pg-211",
