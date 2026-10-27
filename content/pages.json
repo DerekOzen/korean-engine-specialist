@@ -2178,13 +2178,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:51:06.379Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:21:19.264Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:42:11.926Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/used-engine-block-beside-reconditioned-engine-block.webp",
-    "featuredImageAlt": "Thanks, your engine enquiry is in"
+    "featuredImageAlt": "Thanks, your engine enquiry is in",
+    "isHome": false
   },
   {
     "id": "pg-233",
