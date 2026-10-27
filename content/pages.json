@@ -134,14 +134,15 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:29:50.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:58:18.166Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:15:40.358Z",
+    "updatedBy": "joshua",
     "category": "Product",
     "featuredImage": "/uploads/hyundai-d4cb-2-5l-crdi-reconditioned-engine.webp",
-    "featuredImageAlt": "Hyundai D4CB 2.5 litre CRDi turbo-diesel engine, the unit fitted to the iLoad and iMax"
+    "featuredImageAlt": "Hyundai D4CB 2.5 litre CRDi turbo-diesel engine, the unit fitted to the iLoad and iMax",
+    "isHome": false
   },
   {
     "id": "pg-126",
@@ -153,14 +154,15 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:29:50.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:58:28.599Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:15:40.358Z",
+    "updatedBy": "joshua",
     "category": "Product",
     "featuredImage": "/uploads/hyundai-kia-d4hb-2-2l-r-series-turbo-diesel-engine.webp",
-    "featuredImageAlt": "Hyundai and Kia D4HB 2.2 litre R-series turbo-diesel engine"
+    "featuredImageAlt": "Hyundai and Kia D4HB 2.2 litre R-series turbo-diesel engine",
+    "isHome": false
   },
   {
     "id": "pg-127",
@@ -172,14 +174,15 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:29:50.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:58:36.201Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:15:40.358Z",
+    "updatedBy": "joshua",
     "category": "Product",
     "featuredImage": "/uploads/hyundai-kia-g4fd-1-6l-gamma-gdi-petrol-engine.webp",
-    "featuredImageAlt": "Illustration of a 1.6 litre Gamma GDI four cylinder petrol engine of the type the G4FD code covers, naturally aspirated with no turbocharger"
+    "featuredImageAlt": "Illustration of a 1.6 litre Gamma GDI four cylinder petrol engine of the type the G4FD code covers, naturally aspirated with no turbocharger",
+    "isHome": false
   },
   {
     "id": "pg-128",
@@ -191,14 +194,15 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:29:50.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:58:45.092Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:15:40.358Z",
+    "updatedBy": "joshua",
     "category": "Product",
     "featuredImage": "/uploads/hyundai-g4fj-1-6l-gdi-turbo-petrol-engine.webp",
-    "featuredImageAlt": "Hyundai G4FJ 1.6 litre GDI turbocharged petrol engine"
+    "featuredImageAlt": "Hyundai G4FJ 1.6 litre GDI turbocharged petrol engine",
+    "isHome": false
   },
   {
     "id": "pg-129",
@@ -210,14 +214,15 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-10-26T02:36:14.450Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:58:52.478Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:15:40.358Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hyundai-g4kd-2-0l-petrol-engine.webp",
-    "featuredImageAlt": "Hyundai G4KD 2.0 litre petrol engine, shown as a bare long block"
+    "featuredImageAlt": "Hyundai G4KD 2.0 litre petrol engine, shown as a bare long block",
+    "isHome": false
   },
   {
     "id": "pg-130",
@@ -229,14 +234,15 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-10-26T02:36:14.450Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:58:59.570Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:15:40.358Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hyundai-g4ke-2-4l-petrol-engine.webp",
-    "featuredImageAlt": "Hyundai G4KE 2.4 litre petrol engine"
+    "featuredImageAlt": "Hyundai G4KE 2.4 litre petrol engine",
+    "isHome": false
   },
   {
     "id": "pg-131",
@@ -248,14 +254,15 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-10-26T02:36:14.450Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:59:09.429Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:15:40.358Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hyundai-iload-g4kg-2-4l-petrol-engine.webp",
-    "featuredImageAlt": "Hyundai G4KG 2.4 litre petrol engine, the petrol unit fitted to the iLoad and iMax"
+    "featuredImageAlt": "Hyundai G4KG 2.4 litre petrol engine, the petrol unit fitted to the iLoad and iMax",
+    "isHome": false
   },
   {
     "id": "pg-132",
@@ -267,14 +274,15 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-10-26T02:36:14.450Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:59:16.725Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:15:40.358Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hyundai-kia-g4kh-2-0l-theta-ii-turbo-petrol-engine.webp",
-    "featuredImageAlt": "Illustration of a 2.0 litre Theta II turbocharged GDI four cylinder petrol engine of the type the G4KH code covers, with the turbocharger mounted on the exhaust side"
+    "featuredImageAlt": "Illustration of a 2.0 litre Theta II turbocharged GDI four cylinder petrol engine of the type the G4KH code covers, with the turbocharger mounted on the exhaust side",
+    "isHome": false
   },
   {
     "id": "pg-133",
@@ -286,14 +294,15 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-10-26T02:36:14.450Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:59:23.760Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:15:40.358Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hyundai-kia-g4kj-2-4l-gdi-petrol-engine.webp",
-    "featuredImageAlt": "Hyundai and Kia G4KJ 2.4 litre Theta II GDI petrol engine"
+    "featuredImageAlt": "Hyundai and Kia G4KJ 2.4 litre Theta II GDI petrol engine",
+    "isHome": false
   },
   {
     "id": "pg-134",
@@ -305,14 +314,15 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-10-26T02:36:14.450Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:59:31.265Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:15:40.358Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hyundai-kia-g4na-2-0l-nu-petrol-engine.webp",
-    "featuredImageAlt": "Illustration of a 2.0 litre Nu four cylinder petrol engine of the type the G4NA code covers, naturally aspirated with port injection and no turbocharger"
+    "featuredImageAlt": "Illustration of a 2.0 litre Nu four cylinder petrol engine of the type the G4NA code covers, naturally aspirated with port injection and no turbocharger",
+    "isHome": false
   },
   {
     "id": "pg-135",
@@ -324,14 +334,15 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-10-26T02:36:14.450Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:59:38.255Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:15:40.358Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hyundai-kia-g4nb-1-8l-petrol-engine.webp",
-    "featuredImageAlt": "Hyundai and Kia G4NB 1.8 litre petrol engine"
+    "featuredImageAlt": "Hyundai and Kia G4NB 1.8 litre petrol engine",
+    "isHome": false
   },
   {
     "id": "pg-136",
@@ -343,14 +354,15 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-10-26T02:36:14.450Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:59:45.486Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:15:40.358Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hyundai-kia-g4nc-2-0l-gdi-petrol-engine.webp",
-    "featuredImageAlt": "Hyundai and Kia G4NC 2.0 litre GDI petrol engine"
+    "featuredImageAlt": "Hyundai and Kia G4NC 2.0 litre GDI petrol engine",
+    "isHome": false
   },
   {
     "id": "pg-137",
@@ -362,14 +374,15 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-10-26T02:36:14.450Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:59:52.232Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:15:40.358Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hyundai-kia-g6dh-3-3l-v6-petrol-engine.webp",
-    "featuredImageAlt": "Hyundai and Kia G6DH 3.3 litre V6 petrol engine"
+    "featuredImageAlt": "Hyundai and Kia G6DH 3.3 litre V6 petrol engine",
+    "isHome": false
   },
   {
     "id": "pg-138",
