@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-118",
-    "path": "/hyundai-kia-engine-specialists-new-and-reconditioned",
+    "path": "/",
     "type": "page",
     "title": "Hyundai & Kia Engine Specialists | New and Reconditioned",
     "seoTitle": "Hyundai & Kia Engine Specialists | New and Reconditioned",
@@ -12,9 +12,9 @@
     "status": "published",
     "createdAt": "2026-10-26T02:25:25.043Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T22:24:42.367Z",
+    "updatedAt": "2026-10-27T22:25:56.590Z",
     "updatedBy": "joshua",
-    "isHome": false,
+    "isHome": true,
     "featuredImage": "/uploads/hyundai-iload-d4cb-reconditioned-engine-hallam.jpg",
     "featuredImageAlt": "Reconditioned Hyundai iLoad D4CB 2.5L turbo-diesel engine lit in blue and red"
   },
@@ -2093,7 +2093,7 @@
   },
   {
     "id": "pg-117",
-    "path": "/",
+    "path": "/hyundai-kia-engine-specialists-new-and-reconditioned-2",
     "type": "page",
     "title": "Hyundai & Kia Engine Specialists | New and Reconditioned",
     "seoTitle": "Hyundai & Kia Engine Specialists | New and Reconditioned",
@@ -2104,8 +2104,8 @@
     "status": "published",
     "createdAt": "2026-10-27T22:23:24.032Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T22:24:42.367Z",
+    "updatedAt": "2026-10-27T22:25:56.590Z",
     "updatedBy": "joshua",
-    "isHome": true
+    "isHome": false
   }
 ]
