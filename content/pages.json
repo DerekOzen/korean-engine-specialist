@@ -2294,7 +2294,7 @@
   },
   {
     "id": "pg-244",
-    "path": "/engines-2",
+    "path": "/engines",
     "type": "page",
     "title": "Shop Hyundai & Kia Engines | All Engine Models",
     "seoTitle": "Shop Hyundai & Kia Engines | All Engine Models",
@@ -2302,11 +2302,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Other",
     "createdAt": "2026-10-27T23:17:57.180Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T23:20:51.328Z",
+    "updatedAt": "2026-10-27T23:21:15.892Z",
     "updatedBy": "joshua"
   },
   {
