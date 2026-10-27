@@ -4071,10 +4071,10 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-27T23:42:37.822Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T23:42:37.822Z",
+    "updatedAt": "2026-10-27T23:43:04.140Z",
     "updatedBy": "joshua"
   }
 ]
