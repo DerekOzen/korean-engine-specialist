@@ -28,13 +28,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:29:50.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:57:27.917Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/engine-measuring-tools-hallam-workbench.webp",
-    "featuredImageAlt": "Torque wrench, micrometer and bore gauge laid out on a workbench"
+    "featuredImageAlt": "Torque wrench, micrometer and bore gauge laid out on a workbench",
+    "isHome": false
   },
   {
     "id": "pg-120",
@@ -46,12 +47,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:29:50.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
     "updatedBy": "joshua",
-    "noindex": true
+    "noindex": true,
+    "isHome": false
   },
   {
     "id": "pg-121",
@@ -63,12 +65,13 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:29:50.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
     "updatedBy": "joshua",
-    "noindex": true
+    "noindex": true,
+    "isHome": false
   },
   {
     "id": "pg-122",
@@ -80,13 +83,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:29:50.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:57:44.687Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/korean-engine-specialist-workshop-roller-door-hallam.webp",
-    "featuredImageAlt": "Open roller door of an engine workshop unit, illustrating the kind of premises an engine is fitted in"
+    "featuredImageAlt": "Open roller door of an engine workshop unit, illustrating the kind of premises an engine is fitted in",
+    "isHome": false
   },
   {
     "id": "pg-123",
@@ -98,13 +102,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:29:50.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:25:19.085Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-crated-for-delivery.jpg",
-    "featuredImageAlt": "Delivery & Returns"
+    "featuredImageAlt": "Delivery & Returns",
+    "isHome": false
   },
   {
     "id": "pg-124",
@@ -395,13 +400,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:36:14.450Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T22:59:59.261Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-front-view.webp",
-    "featuredImageAlt": "Reconditioned Hyundai petrol engine photographed from the front showing pulleys and accessory belt"
+    "featuredImageAlt": "Reconditioned Hyundai petrol engine photographed from the front showing pulleys and accessory belt",
+    "isHome": false
   },
   {
     "id": "pg-139",
@@ -413,13 +419,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:37:59.369Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:25:25.751Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Accent Engines"
+    "featuredImageAlt": "Hyundai Accent Engines",
+    "isHome": false
   },
   {
     "id": "pg-140",
@@ -431,13 +438,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:37:59.369Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:25:33.464Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Accent Engine Problems"
+    "featuredImageAlt": "Hyundai Accent Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-141",
@@ -449,13 +457,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:37:59.369Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:25:41.258Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Elantra Engines"
+    "featuredImageAlt": "Hyundai Elantra Engines",
+    "isHome": false
   },
   {
     "id": "pg-142",
@@ -467,13 +476,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:37:59.369Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:25:48.235Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Elantra Engine Problems"
+    "featuredImageAlt": "Hyundai Elantra Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-143",
@@ -485,13 +495,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:37:59.369Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:25:55.738Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Genesis Engines"
+    "featuredImageAlt": "Hyundai Genesis Engines",
+    "isHome": false
   },
   {
     "id": "pg-144",
@@ -503,13 +514,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:37:59.369Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:26:03.105Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Genesis Engine Problems"
+    "featuredImageAlt": "Hyundai Genesis Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-145",
@@ -521,13 +533,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:37:59.369Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:26:10.255Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Getz Engines"
+    "featuredImageAlt": "Hyundai Getz Engines",
+    "isHome": false
   },
   {
     "id": "pg-146",
@@ -539,13 +552,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:37:59.369Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:26:18.297Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Getz Engine Problems"
+    "featuredImageAlt": "Hyundai Getz Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-147",
@@ -557,13 +571,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:37:59.369Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:26:25.486Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai i20 Engines"
+    "featuredImageAlt": "Hyundai i20 Engines",
+    "isHome": false
   },
   {
     "id": "pg-148",
@@ -575,13 +590,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:37:59.369Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:26:32.616Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai i20 Engine Problems"
+    "featuredImageAlt": "Hyundai i20 Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-149",
@@ -593,13 +609,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:39:25.027Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:26:39.917Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hyundai-i30-reconditioned-engine.webp",
-    "featuredImageAlt": "Hyundai i30 Engines"
+    "featuredImageAlt": "Hyundai i30 Engines",
+    "isHome": false
   },
   {
     "id": "pg-150",
@@ -611,13 +628,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:39:25.027Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:26:47.487Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai i30 Engine Problems"
+    "featuredImageAlt": "Hyundai i30 Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-151",
@@ -629,13 +647,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:39:25.027Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:26:54.566Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai i40 Engines"
+    "featuredImageAlt": "Hyundai i40 Engines",
+    "isHome": false
   },
   {
     "id": "pg-152",
@@ -647,13 +666,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:39:25.027Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:27:01.835Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai i40 Engine Problems"
+    "featuredImageAlt": "Hyundai i40 Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-153",
@@ -665,13 +685,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:39:25.027Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:01:16.491Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hyundai-iload-engine-bay-reconditioned-d4cb.webp",
-    "featuredImageAlt": "Van engine bay with a turbo diesel engine in place, the layout a Hyundai iLoad owner would recognise"
+    "featuredImageAlt": "Van engine bay with a turbo diesel engine in place, the layout a Hyundai iLoad owner would recognise",
+    "isHome": false
   },
   {
     "id": "pg-154",
@@ -683,13 +704,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:39:25.027Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:01:23.786Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/technician-torquing-engine-bolt-close-up.webp",
-    "featuredImageAlt": "Gloved hands torquing an engine bolt with a torque wrench"
+    "featuredImageAlt": "Gloved hands torquing an engine bolt with a torque wrench",
+    "isHome": false
   },
   {
     "id": "pg-155",
@@ -701,13 +723,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:39:25.027Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:27:09.223Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/commercial-van-fleet-iload-imax-engines.webp",
-    "featuredImageAlt": "Hyundai iMax Engines"
+    "featuredImageAlt": "Hyundai iMax Engines",
+    "isHome": false
   },
   {
     "id": "pg-156",
@@ -719,13 +742,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:39:25.027Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:27:16.404Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai iMax Engine Problems"
+    "featuredImageAlt": "Hyundai iMax Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-157",
@@ -737,13 +761,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:39:25.027Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:27:23.609Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai ix35 Engines"
+    "featuredImageAlt": "Hyundai ix35 Engines",
+    "isHome": false
   },
   {
     "id": "pg-158",
@@ -755,13 +780,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:39:25.027Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:27:31.031Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai ix35 Engine Problems"
+    "featuredImageAlt": "Hyundai ix35 Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-159",
@@ -773,13 +799,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:40:48.622Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:27:38.386Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Kona Engines"
+    "featuredImageAlt": "Hyundai Kona Engines",
+    "isHome": false
   },
   {
     "id": "pg-160",
@@ -791,13 +818,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:40:48.622Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:27:45.349Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Kona Engine Problems"
+    "featuredImageAlt": "Hyundai Kona Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-161",
@@ -809,13 +837,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:40:48.622Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:27:52.726Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Palisade Engines"
+    "featuredImageAlt": "Hyundai Palisade Engines",
+    "isHome": false
   },
   {
     "id": "pg-162",
@@ -827,13 +856,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:40:48.622Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:28:00.215Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Palisade Engine Problems"
+    "featuredImageAlt": "Hyundai Palisade Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-163",
@@ -845,13 +875,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:40:48.622Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:28:07.516Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hyundai-santa-fe-reconditioned-engine.webp",
-    "featuredImageAlt": "Hyundai Santa Fe Engines"
+    "featuredImageAlt": "Hyundai Santa Fe Engines",
+    "isHome": false
   },
   {
     "id": "pg-164",
@@ -863,13 +894,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:40:48.622Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:28:29.347Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Santa Fe Engine Problems"
+    "featuredImageAlt": "Hyundai Santa Fe Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-165",
@@ -881,13 +913,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:40:48.622Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:28:36.201Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Sonata Engines"
+    "featuredImageAlt": "Hyundai Sonata Engines",
+    "isHome": false
   },
   {
     "id": "pg-166",
@@ -899,13 +932,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:40:48.622Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:28:43.007Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Sonata Engine Problems"
+    "featuredImageAlt": "Hyundai Sonata Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-167",
@@ -917,13 +951,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:40:48.622Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:28:50.052Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Staria Engines"
+    "featuredImageAlt": "Hyundai Staria Engines",
+    "isHome": false
   },
   {
     "id": "pg-168",
@@ -935,13 +970,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:40:48.622Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:28:57.032Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Staria Engine Problems"
+    "featuredImageAlt": "Hyundai Staria Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-169",
@@ -953,13 +989,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:42:20.604Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:29:03.997Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hyundai-tucson-reconditioned-engine.webp",
-    "featuredImageAlt": "Hyundai Tucson Engines"
+    "featuredImageAlt": "Hyundai Tucson Engines",
+    "isHome": false
   },
   {
     "id": "pg-170",
@@ -971,13 +1008,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:42:20.604Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:15:40.287Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Tucson Engine Problems"
+    "featuredImageAlt": "Hyundai Tucson Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-171",
@@ -989,13 +1027,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:42:20.604Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:15:48.289Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Veloster Engines"
+    "featuredImageAlt": "Hyundai Veloster Engines",
+    "isHome": false
   },
   {
     "id": "pg-172",
@@ -1007,13 +1046,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:42:20.604Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:15:55.908Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai Veloster Engine Problems"
+    "featuredImageAlt": "Hyundai Veloster Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-173",
@@ -1025,13 +1065,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:42:20.604Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:04:55.116Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-kia-engine-gearbox-face.webp",
-    "featuredImageAlt": "Reconditioned Kia engine photographed from the gearbox mating face"
+    "featuredImageAlt": "Reconditioned Kia engine photographed from the gearbox mating face",
+    "isHome": false
   },
   {
     "id": "pg-174",
@@ -1043,13 +1084,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:42:20.604Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:16:03.974Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-kia-engine-gearbox-face.webp",
-    "featuredImageAlt": "Kia Carnival Engines"
+    "featuredImageAlt": "Kia Carnival Engines",
+    "isHome": false
   },
   {
     "id": "pg-175",
@@ -1061,13 +1103,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:42:20.604Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:16:11.667Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/used-engine-block-beside-reconditioned-engine-block.webp",
-    "featuredImageAlt": "Kia Carnival Engine Problems"
+    "featuredImageAlt": "Kia Carnival Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-176",
@@ -1079,13 +1122,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:42:20.604Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:16:19.438Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-kia-engine-gearbox-face.webp",
-    "featuredImageAlt": "Kia Cerato Engines"
+    "featuredImageAlt": "Kia Cerato Engines",
+    "isHome": false
   },
   {
     "id": "pg-177",
@@ -1097,13 +1141,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:42:20.604Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:16:26.829Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-kia-engine-gearbox-face.webp",
-    "featuredImageAlt": "Kia Cerato GT Engines"
+    "featuredImageAlt": "Kia Cerato GT Engines",
+    "isHome": false
   },
   {
     "id": "pg-178",
@@ -1115,13 +1160,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:42:20.604Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:16:34.727Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/used-engine-block-beside-reconditioned-engine-block.webp",
-    "featuredImageAlt": "Kia Cerato GT Engine Problems"
+    "featuredImageAlt": "Kia Cerato GT Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-179",
@@ -1133,13 +1179,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:43:47.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:16:42.372Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/used-engine-block-beside-reconditioned-engine-block.webp",
-    "featuredImageAlt": "Kia Cerato Engine Problems"
+    "featuredImageAlt": "Kia Cerato Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-180",
@@ -1151,13 +1198,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:43:47.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:16:50.449Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-kia-engine-gearbox-face.webp",
-    "featuredImageAlt": "Kia Optima Engines"
+    "featuredImageAlt": "Kia Optima Engines",
+    "isHome": false
   },
   {
     "id": "pg-181",
@@ -1169,13 +1217,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:43:47.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:16:57.835Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/used-engine-block-beside-reconditioned-engine-block.webp",
-    "featuredImageAlt": "Kia Optima Engine Problems"
+    "featuredImageAlt": "Kia Optima Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-182",
@@ -1187,13 +1236,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:43:47.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:17:14.207Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-kia-engine-gearbox-face.webp",
-    "featuredImageAlt": "Kia Rio Engines"
+    "featuredImageAlt": "Kia Rio Engines",
+    "isHome": false
   },
   {
     "id": "pg-183",
@@ -1205,13 +1255,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:43:47.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:17:30.932Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/used-engine-block-beside-reconditioned-engine-block.webp",
-    "featuredImageAlt": "Kia Rio Engine Problems"
+    "featuredImageAlt": "Kia Rio Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-184",
@@ -1223,13 +1274,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:43:47.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:17:44.912Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-kia-engine-gearbox-face.webp",
-    "featuredImageAlt": "Kia Rondo Engines"
+    "featuredImageAlt": "Kia Rondo Engines",
+    "isHome": false
   },
   {
     "id": "pg-185",
@@ -1241,13 +1293,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:43:47.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:17:59.522Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/used-engine-block-beside-reconditioned-engine-block.webp",
-    "featuredImageAlt": "Kia Rondo Engine Problems"
+    "featuredImageAlt": "Kia Rondo Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-186",
@@ -1259,13 +1312,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:43:47.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:18:14.529Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-kia-engine-gearbox-face.webp",
-    "featuredImageAlt": "Kia Seltos Engines"
+    "featuredImageAlt": "Kia Seltos Engines",
+    "isHome": false
   },
   {
     "id": "pg-187",
@@ -1277,13 +1331,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:43:47.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:18:29.474Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/used-engine-block-beside-reconditioned-engine-block.webp",
-    "featuredImageAlt": "Kia Seltos Engine Problems"
+    "featuredImageAlt": "Kia Seltos Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-188",
@@ -1295,13 +1350,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:43:47.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:18:43.804Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/kia-sorento-d4hb-reconditioned-engine.webp",
-    "featuredImageAlt": "Kia Sorento Engines"
+    "featuredImageAlt": "Kia Sorento Engines",
+    "isHome": false
   },
   {
     "id": "pg-189",
@@ -1313,13 +1369,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:45:17.550Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:18:57.827Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/kia-sorento-d4hb-reconditioned-engine.webp",
-    "featuredImageAlt": "Kia Sorento Engine Problems"
+    "featuredImageAlt": "Kia Sorento Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-190",
@@ -1331,13 +1388,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:45:17.550Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:19:11.917Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/kia-sportage-reconditioned-engine.jpg",
-    "featuredImageAlt": "Kia Sportage Engines"
+    "featuredImageAlt": "Kia Sportage Engines",
+    "isHome": false
   },
   {
     "id": "pg-191",
@@ -1349,13 +1407,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:45:17.550Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:19:25.655Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/kia-sportage-reconditioned-engine.jpg",
-    "featuredImageAlt": "Kia Sportage Engine Problems"
+    "featuredImageAlt": "Kia Sportage Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-192",
@@ -1367,13 +1426,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:45:17.550Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:19:39.158Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-kia-engine-gearbox-face.webp",
-    "featuredImageAlt": "Kia Stinger Engines"
+    "featuredImageAlt": "Kia Stinger Engines",
+    "isHome": false
   },
   {
     "id": "pg-193",
@@ -1385,13 +1445,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:45:17.550Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:19:53.133Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/used-engine-block-beside-reconditioned-engine-block.webp",
-    "featuredImageAlt": "Kia Stinger Engine Problems"
+    "featuredImageAlt": "Kia Stinger Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-194",
@@ -1403,13 +1464,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:45:17.550Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:20:07.865Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai & Kia Engine Guides"
+    "featuredImageAlt": "Hyundai & Kia Engine Guides",
+    "isHome": false
   },
   {
     "id": "pg-195",
@@ -1421,13 +1483,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:45:17.550Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:20:22.381Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/empty-engine-bay-before-engine-replacement.webp",
-    "featuredImageAlt": "Engine Replacement Cost in Australia"
+    "featuredImageAlt": "Engine Replacement Cost in Australia",
+    "isHome": false
   },
   {
     "id": "pg-196",
@@ -1439,13 +1502,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:45:17.550Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:20:36.010Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai & Kia Engine Codes Explained"
+    "featuredImageAlt": "Hyundai & Kia Engine Codes Explained",
+    "isHome": false
   },
   {
     "id": "pg-197",
@@ -1457,13 +1521,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:45:17.550Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:09:39.234Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/used-engine-block-beside-reconditioned-engine-block.webp",
-    "featuredImageAlt": "A worn engine block beside a freshly machined one, comparing a used engine with a reconditioned engine"
+    "featuredImageAlt": "A worn engine block beside a freshly machined one, comparing a used engine with a reconditioned engine",
+    "isHome": false
   },
   {
     "id": "pg-198",
@@ -1722,13 +1787,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:48:36.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:13:50.915Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/new-engine-wrapped-on-pallet.webp",
-    "featuredImageAlt": "New unused engine in factory protective wrapping on a pallet, ready for supply"
+    "featuredImageAlt": "New unused engine in factory protective wrapping on a pallet, ready for supply",
+    "isHome": false
   },
   {
     "id": "pg-212",
@@ -1740,11 +1806,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:48:36.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-213",
@@ -1756,13 +1823,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:48:36.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:20:49.450Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Hyundai & Kia engine prices"
+    "featuredImageAlt": "Hyundai & Kia engine prices",
+    "isHome": false
   },
   {
     "id": "pg-214",
@@ -1774,11 +1842,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:48:36.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-215",
@@ -1790,13 +1859,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:48:36.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:21:04.747Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-hyundai-engine-on-engine-stand.jpg",
-    "featuredImageAlt": "Common Hyundai & Kia Engine Problems"
+    "featuredImageAlt": "Common Hyundai & Kia Engine Problems",
+    "isHome": false
   },
   {
     "id": "pg-216",
@@ -1808,13 +1878,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:48:36.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:14:59.691Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-engines-on-warehouse-racking.webp",
-    "featuredImageAlt": "Reconditioned engine blocks stored on warehouse racking"
+    "featuredImageAlt": "Reconditioned engine blocks stored on warehouse racking",
+    "isHome": false
   },
   {
     "id": "pg-217",
@@ -1826,13 +1897,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:48:36.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:15:17.760Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/diesel-engine-fuel-rail-and-injector-lines.webp",
-    "featuredImageAlt": "High pressure fuel rail and injector lines on a reconditioned turbo diesel engine"
+    "featuredImageAlt": "High pressure fuel rail and injector lines on a reconditioned turbo diesel engine",
+    "isHome": false
   },
   {
     "id": "pg-218",
@@ -1844,13 +1916,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:48:36.275Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:15:36.534Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/petrol-engine-cylinder-head-camshafts.webp",
-    "featuredImageAlt": "Cylinder head and camshafts from a reconditioned petrol engine"
+    "featuredImageAlt": "Cylinder head and camshafts from a reconditioned petrol engine",
+    "isHome": false
   },
   {
     "id": "pg-219",
@@ -1862,11 +1935,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:50:15.957Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-220",
@@ -2068,13 +2142,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:51:06.379Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:18:58.178Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/engine-spare-parts-gaskets-bearings-rings.webp",
-    "featuredImageAlt": "Engine spare parts laid out on a workbench: gaskets, bearing shells, piston rings and pumps"
+    "featuredImageAlt": "Engine spare parts laid out on a workbench: gaskets, bearing shells, piston rings and pumps",
+    "isHome": false
   },
   {
     "id": "pg-231",
@@ -2086,11 +2161,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:51:06.379Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-232",
@@ -2120,13 +2196,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:51:06.379Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T00:21:33.759Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:28:42.487Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/empty-engine-bay-before-engine-replacement.webp",
-    "featuredImageAlt": "Warranty on Your Replacement Engine"
+    "featuredImageAlt": "Warranty on Your Replacement Engine",
+    "isHome": false
   },
   {
     "id": "pg-117",
