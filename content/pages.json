@@ -1851,13 +1851,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:50:15.957Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:16:07.698Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:04:53.827Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/hallam-engine-workshop-hoists-and-stands.webp",
-    "featuredImageAlt": "Vehicle hoists and engine stands in an engine reconditioning workshop"
+    "featuredImageAlt": "Vehicle hoists and engine stands in an engine reconditioning workshop",
+    "isHome": false
   },
   {
     "id": "pg-221",
@@ -1869,13 +1870,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:50:15.957Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:16:26.266Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:04:53.827Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/courtesy-car-keys-on-workshop-counter.webp",
-    "featuredImageAlt": "Car keys on a workshop counter"
+    "featuredImageAlt": "Car keys on a workshop counter",
+    "isHome": false
   },
   {
     "id": "pg-222",
@@ -1887,13 +1889,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:50:15.957Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:16:44.833Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:04:53.827Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/crankshaft-and-connecting-rods-engine-rebuild.webp",
-    "featuredImageAlt": "Crankshaft and connecting rods laid out on the assembly bench during an engine rebuild"
+    "featuredImageAlt": "Crankshaft and connecting rods laid out on the assembly bench during an engine rebuild",
+    "isHome": false
   },
   {
     "id": "pg-223",
@@ -1905,13 +1908,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:50:15.957Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:17:02.718Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:04:53.827Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/engine-block-on-boring-machine-machine-shop.webp",
-    "featuredImageAlt": "Engine block mounted on a boring machine during reconditioning"
+    "featuredImageAlt": "Engine block mounted on a boring machine during reconditioning",
+    "isHome": false
   },
   {
     "id": "pg-224",
@@ -1923,13 +1927,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:50:15.957Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:17:19.921Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:04:53.827Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/empty-engine-bay-before-engine-replacement.webp",
-    "featuredImageAlt": "Empty engine bay with the engine removed, ready for a replacement to be fitted"
+    "featuredImageAlt": "Empty engine bay with the engine removed, ready for a replacement to be fitted",
+    "isHome": false
   },
   {
     "id": "pg-225",
@@ -1941,13 +1946,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:50:15.957Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:17:36.003Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:04:53.827Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/reconditioned-engine-being-fitted-supply-and-fit.webp",
-    "featuredImageAlt": "Reconditioned engine on a load leveller being lowered into an engine bay"
+    "featuredImageAlt": "Reconditioned engine on a load leveller being lowered into an engine bay",
+    "isHome": false
   },
   {
     "id": "pg-226",
@@ -1959,13 +1965,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:50:15.957Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:17:51.998Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:04:53.827Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/commercial-van-fleet-iload-imax-engines.webp",
-    "featuredImageAlt": "Commercial vans of the kind we supply iLoad and iMax engines for"
+    "featuredImageAlt": "Commercial vans of the kind we supply iLoad and iMax engines for",
+    "isHome": false
   },
   {
     "id": "pg-227",
@@ -1977,13 +1984,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:50:15.957Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:18:09.326Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:04:53.827Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/engine-timing-chain-guides-and-tensioner.webp",
-    "featuredImageAlt": "Engine timing chain, guides and tensioner laid out before a timing chain replacement"
+    "featuredImageAlt": "Engine timing chain, guides and tensioner laid out before a timing chain replacement",
+    "isHome": false
   },
   {
     "id": "pg-228",
@@ -1995,13 +2003,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:50:15.957Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:18:26.304Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:04:53.827Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/tilt-tray-tow-truck-vehicle-collection.webp",
-    "featuredImageAlt": "Tilt tray tow truck at dusk, illustrating the kind of vehicle used for a workshop collection"
+    "featuredImageAlt": "Tilt tray tow truck at dusk, illustrating the kind of vehicle used for a workshop collection",
+    "isHome": false
   },
   {
     "id": "pg-229",
@@ -2013,13 +2022,14 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-26T02:51:06.379Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T23:18:42.755Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-10-27T23:04:53.827Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/engine-workshop-open-at-night-urgent-replacement.webp",
-    "featuredImageAlt": "Engine workshop lit at night, illustrating after-hours engine work"
+    "featuredImageAlt": "Engine workshop lit at night, illustrating after-hours engine work",
+    "isHome": false
   },
   {
     "id": "pg-230",
