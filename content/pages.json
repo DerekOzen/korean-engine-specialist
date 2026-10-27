@@ -2121,7 +2121,7 @@
   {
     "id": "pg-234",
     "path": "/services",
-    "type": "page",
+    "type": "service",
     "title": "Engine Services | Supply, Fit, Replacement & Rebuild",
     "seoTitle": "Engine Services | Supply, Fit, Replacement & Rebuild",
     "seoDescription": "Hyundai and Kia engine services from our Hallam workshop: new and reconditioned engine supply and fit, replacement, rebuilding, urgent work, towing and courtesy cars.",
@@ -2131,13 +2131,13 @@
     "status": "draft",
     "createdAt": "2026-10-27T23:07:19.078Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T23:07:19.078Z",
+    "updatedAt": "2026-10-27T23:07:53.712Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-235",
     "path": "/services/courtesy-cars",
-    "type": "page",
+    "type": "service",
     "title": "Courtesy Cars | Hyundai & Kia at Hallam",
     "seoTitle": "Courtesy Cars | Hyundai & Kia at Hallam",
     "seoDescription": "A courtesy car can be arranged while your vehicle is with us at the Hallam workshop, subject to availability.",
@@ -2147,13 +2147,13 @@
     "status": "draft",
     "createdAt": "2026-10-27T23:07:19.078Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T23:07:19.078Z",
+    "updatedAt": "2026-10-27T23:07:53.712Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-236",
     "path": "/services/engine-rebuilding",
-    "type": "page",
+    "type": "service",
     "title": "Engine Rebuilding | Hyundai & Kia at Hallam",
     "seoTitle": "Engine Rebuilding | Hyundai & Kia at Hallam",
     "seoDescription": "Full engine rebuilds on Hyundai and Kia engines, with pistons, rings and bearings returned to factory specification.",
@@ -2163,13 +2163,13 @@
     "status": "draft",
     "createdAt": "2026-10-27T23:07:19.078Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T23:07:19.078Z",
+    "updatedAt": "2026-10-27T23:07:53.712Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-237",
     "path": "/services/engine-reconditioning",
-    "type": "page",
+    "type": "service",
     "title": "Engine Reconditioning | Hyundai & Kia at Hallam",
     "seoTitle": "Engine Reconditioning | Hyundai & Kia at Hallam",
     "seoDescription": "Machining and rebuilding Hyundai and Kia engines to the manufacturer’s specification at our Hallam workshop.",
@@ -2179,13 +2179,13 @@
     "status": "draft",
     "createdAt": "2026-10-27T23:07:19.078Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T23:07:19.078Z",
+    "updatedAt": "2026-10-27T23:07:53.712Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-238",
     "path": "/services/engine-replacement",
-    "type": "page",
+    "type": "service",
     "title": "Engine Replacement | Hyundai & Kia at Hallam",
     "seoTitle": "Engine Replacement | Hyundai & Kia at Hallam",
     "seoDescription": "Replacing a failed Hyundai or Kia engine with a new or reconditioned one, carried out at our Hallam workshop.",
@@ -2195,13 +2195,13 @@
     "status": "draft",
     "createdAt": "2026-10-27T23:07:19.078Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T23:07:19.078Z",
+    "updatedAt": "2026-10-27T23:07:53.712Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-239",
     "path": "/services/engine-supply-and-fit",
-    "type": "page",
+    "type": "service",
     "title": "Engine Supply & Fit | Hyundai & Kia at Hallam",
     "seoTitle": "Engine Supply & Fit | Hyundai & Kia at Hallam",
     "seoDescription": "We supply the new or reconditioned Hyundai or Kia engine and fit it at our Hallam, Victoria workshop. Fitting is a flat $1,000 on any engine, GST included.",
@@ -2211,13 +2211,13 @@
     "status": "draft",
     "createdAt": "2026-10-27T23:07:19.078Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T23:07:19.078Z",
+    "updatedAt": "2026-10-27T23:07:53.712Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-240",
     "path": "/services/iload-imax-engine-specialist",
-    "type": "page",
+    "type": "service",
     "title": "iLoad and iMax Engine Specialist | Hyundai & Kia at Hallam",
     "seoTitle": "iLoad and iMax Engine Specialist | Hyundai & Kia at Hallam",
     "seoDescription": "The D4CB turbo-diesel is the engine we know best, with more than 300 supplied and fitted for iLoad and iMax owners.",
@@ -2227,13 +2227,13 @@
     "status": "draft",
     "createdAt": "2026-10-27T23:07:19.078Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T23:07:19.078Z",
+    "updatedAt": "2026-10-27T23:07:53.712Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-241",
     "path": "/services/timing-chain-replacement",
-    "type": "page",
+    "type": "service",
     "title": "Timing Chain Replacement | Hyundai & Kia at Hallam",
     "seoTitle": "Timing Chain Replacement | Hyundai & Kia at Hallam",
     "seoDescription": "Timing chain, guide and tensioner replacement on Hyundai and Kia engines at our Hallam workshop.",
@@ -2243,13 +2243,13 @@
     "status": "draft",
     "createdAt": "2026-10-27T23:07:19.078Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T23:07:19.078Z",
+    "updatedAt": "2026-10-27T23:07:53.712Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-242",
     "path": "/services/towing-vehicle-collection",
-    "type": "page",
+    "type": "service",
     "title": "Towing and Vehicle Collection | Hyundai & Kia at Hallam",
     "seoTitle": "Towing and Vehicle Collection | Hyundai & Kia at Hallam",
     "seoDescription": "Towing and vehicle collection arranged where available, so a vehicle that cannot be driven still reaches the workshop.",
@@ -2259,13 +2259,13 @@
     "status": "draft",
     "createdAt": "2026-10-27T23:07:19.078Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T23:07:19.078Z",
+    "updatedAt": "2026-10-27T23:07:53.712Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-243",
     "path": "/services/urgent-engine-replacement",
-    "type": "page",
+    "type": "service",
     "title": "Urgent Engine Replacement | Hyundai & Kia at Hallam",
     "seoTitle": "Urgent Engine Replacement | Hyundai & Kia at Hallam",
     "seoDescription": "24 hour urgent and emergency Hyundai and Kia engine replacement for vehicles that cannot wait.",
@@ -2275,7 +2275,7 @@
     "status": "draft",
     "createdAt": "2026-10-27T23:07:19.078Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T23:07:19.078Z",
+    "updatedAt": "2026-10-27T23:07:53.712Z",
     "updatedBy": "joshua"
   }
 ]
