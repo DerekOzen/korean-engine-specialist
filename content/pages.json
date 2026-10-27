@@ -1410,8 +1410,10 @@
     "status": "published",
     "createdAt": "2026-10-26T02:45:17.550Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-26T03:26:18.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-27T00:20:22.381Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/empty-engine-bay-before-engine-replacement.webp",
+    "featuredImageAlt": "Engine Replacement Cost in Australia"
   },
   {
     "id": "pg-196",
