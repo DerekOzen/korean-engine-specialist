@@ -1998,9 +1998,11 @@
     "status": "published",
     "createdAt": "2026-10-28T02:22:19.243Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T04:58:05.430Z",
-    "updatedBy": "joshua",
-    "isHome": true
+    "updatedAt": "2026-10-28T05:07:19.194Z",
+    "updatedBy": "sebastian",
+    "isHome": true,
+    "featuredImage": "/uploads/hyundai-iload-d4cb-reconditioned-engine-hallam.jpg",
+    "featuredImageAlt": "Reconditioned Hyundai iLoad D4CB 2.5L turbo-diesel engine lit in blue and red"
   },
   {
     "id": "pg-119",
