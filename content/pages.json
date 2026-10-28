@@ -186,12 +186,13 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "category": "Other",
     "createdAt": "2026-10-27T23:17:57.180Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T23:21:15.892Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-28T02:25:49.013Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-245",
