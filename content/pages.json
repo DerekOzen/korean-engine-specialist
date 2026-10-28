@@ -2300,8 +2300,10 @@
     "status": "published",
     "createdAt": "2026-10-28T02:32:25.636Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T04:58:05.430Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-28T05:21:08.137Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/courtesy-car-keys-on-workshop-counter.webp",
+    "featuredImageAlt": "Car keys on a workshop counter"
   },
   {
     "id": "pg-135",
