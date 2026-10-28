@@ -2975,8 +2975,10 @@
     "status": "published",
     "createdAt": "2026-10-28T02:44:13.191Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T04:58:05.430Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-28T05:07:27.958Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/engine-measuring-tools-hallam-workbench.webp",
+    "featuredImageAlt": "Torque wrench, micrometer and bore gauge laid out on a workbench"
   },
   {
     "id": "pg-178",
