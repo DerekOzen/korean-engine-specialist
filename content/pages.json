@@ -2328,7 +2328,7 @@
   {
     "id": "pg-143",
     "path": "/guides",
-    "type": "page",
+    "type": "post",
     "title": "Hyundai & Kia Engine Guides | Buying Advice",
     "seoTitle": "Hyundai & Kia Engine Guides | Buying Advice",
     "seoDescription": "Plain-language guides to buying a new or reconditioned Hyundai or Kia engine: what it costs, what the models mean and how reconditioned compares with new.",
@@ -2338,13 +2338,13 @@
     "status": "draft",
     "createdAt": "2026-10-28T02:35:47.381Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T02:35:47.381Z",
+    "updatedAt": "2026-10-28T02:38:33.430Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-144",
     "path": "/guides/engine-replacement-cost-australia",
-    "type": "page",
+    "type": "post",
     "title": "Engine Replacement Cost in Australia | Korean Engine Specialist",
     "seoTitle": "Engine Replacement Cost in Australia | Korean Engine Specialist",
     "seoDescription": "What a Hyundai or Kia engine replacement actually costs in Australia, with our published prices and what drives the figure.",
@@ -2354,13 +2354,13 @@
     "status": "draft",
     "createdAt": "2026-10-28T02:35:47.381Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T02:35:47.381Z",
+    "updatedAt": "2026-10-28T02:38:33.430Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-145",
     "path": "/guides/hyundai-kia-engine-codes-explained",
-    "type": "page",
+    "type": "post",
     "title": "Hyundai & Kia Engine Models Explained | Korean Engine Specialist",
     "seoTitle": "Hyundai & Kia Engine Models Explained | Korean Engine Specialist",
     "seoDescription": "What D4CB, G4KJ, G4NA and the rest actually mean, how to find your model, and why the model name is not enough to order from.",
@@ -2370,13 +2370,13 @@
     "status": "draft",
     "createdAt": "2026-10-28T02:35:47.381Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T02:35:47.381Z",
+    "updatedAt": "2026-10-28T02:38:33.430Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-146",
     "path": "/guides/reconditioned-vs-new-engine",
-    "type": "page",
+    "type": "post",
     "title": "Reconditioned vs New Engine | Which to Choose",
     "seoTitle": "Reconditioned vs New Engine | Which to Choose",
     "seoDescription": "A plain comparison of reconditioned and new Hyundai and Kia engines: what each one is, what it costs, and when each is the sensible choice.",
@@ -2386,7 +2386,7 @@
     "status": "draft",
     "createdAt": "2026-10-28T02:35:47.381Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T02:35:47.381Z",
+    "updatedAt": "2026-10-28T02:38:33.430Z",
     "updatedBy": "joshua"
   },
   {
