@@ -4341,9 +4341,11 @@
     "status": "published",
     "createdAt": "2026-10-28T03:01:00.216Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T08:07:06.295Z",
-    "updatedBy": "joshua",
-    "noindex": true
+    "updatedAt": "2026-10-28T08:18:04.882Z",
+    "updatedBy": "sebastian",
+    "noindex": true,
+    "featuredImage": "/uploads/used-engine-block-beside-reconditioned-engine-block.webp",
+    "featuredImageAlt": "Thanks, your engine enquiry is in"
   },
   {
     "id": "pg-365",
