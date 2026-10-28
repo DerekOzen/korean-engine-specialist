@@ -3347,8 +3347,10 @@
     "status": "published",
     "createdAt": "2026-10-28T02:47:13.439Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T04:58:05.430Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-28T05:11:14.772Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/technician-torquing-engine-bolt-close-up.webp",
+    "featuredImageAlt": "Gloved hands torquing an engine bolt with a torque wrench"
   },
   {
     "id": "pg-199",
