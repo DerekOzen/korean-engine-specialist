@@ -1869,5 +1869,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-27T23:43:04.140Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-118",
+    "path": "/index",
+    "type": "page",
+    "title": "Hyundai & Kia Engine Specialists | New and Reconditioned",
+    "seoTitle": "Hyundai & Kia Engine Specialists | New and Reconditioned",
+    "seoDescription": "New and reconditioned Hyundai, Kia and iLoad engines supplied Australia-wide and fitted at our Hallam, Victoria workshop. We beat any written quote by 5%.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-10-28T02:22:19.243Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-28T02:22:19.243Z",
+    "updatedBy": "joshua"
   }
 ]
