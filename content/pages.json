@@ -1978,11 +1978,12 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-27T23:42:37.822Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-27T23:43:04.140Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-28T02:58:59.458Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-118",
