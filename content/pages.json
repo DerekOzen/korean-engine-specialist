@@ -2354,8 +2354,10 @@
     "status": "published",
     "createdAt": "2026-10-28T02:32:25.636Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T04:58:05.430Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-28T05:22:04.306Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/empty-engine-bay-before-engine-replacement.webp",
+    "featuredImageAlt": "Empty engine bay with the engine removed, ready for a replacement to be fitted"
   },
   {
     "id": "pg-138",
