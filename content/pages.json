@@ -4366,5 +4366,21 @@
     "updatedBy": "sebastian",
     "featuredImage": "/uploads/empty-engine-bay-before-engine-replacement.webp",
     "featuredImageAlt": "Warranty on Your Replacement Engine"
+  },
+  {
+    "id": "pg-366",
+    "path": "/checkout/order-received",
+    "type": "page",
+    "title": "Base44 Checkout Order Received V7.11",
+    "seoTitle": "Base44 Checkout Order Received V7.11",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-04T03:53:51.753Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-11-04T03:53:51.753Z",
+    "updatedBy": "joshua"
   }
 ]
