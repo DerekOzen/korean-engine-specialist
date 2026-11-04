@@ -4371,16 +4371,17 @@
     "id": "pg-366",
     "path": "/checkout/order-received",
     "type": "page",
-    "title": "Base44 Checkout Order Received V7.11",
-    "seoTitle": "Base44 Checkout Order Received V7.11",
+    "title": "Checkout Order Received",
+    "seoTitle": "Checkout Order Received",
     "seoDescription": "",
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-04T03:53:51.753Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-04T03:53:51.753Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-04T03:57:53.268Z",
+    "updatedBy": "joshua",
+    "noindex": true
   }
 ]
